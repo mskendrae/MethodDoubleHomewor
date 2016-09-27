@@ -1,0 +1,7 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodDoubleHomework\MethodDoubleHomework\bin\Debug\MethodDoubleHomework.exe.config
+C:\Users\msken\Documents\Visual Studio 2015\Projects\MethodDoubleHomeWork\MethodDoubleHomework\bin\Debug\MethodDoubleHomework.exe.config
+C:\Users\msken\Documents\Visual Studio 2015\Projects\MethodDoubleHomeWork\MethodDoubleHomework\bin\Debug\MethodDoubleHomework.exe
+C:\Users\msken\Documents\Visual Studio 2015\Projects\MethodDoubleHomeWork\MethodDoubleHomework\bin\Debug\MethodDoubleHomework.pdb
+C:\Users\msken\Documents\Visual Studio 2015\Projects\MethodDoubleHomeWork\MethodDoubleHomework\obj\Debug\MethodDoubleHomework.csprojResolveAssemblyReference.cache
+C:\Users\msken\Documents\Visual Studio 2015\Projects\MethodDoubleHomeWork\MethodDoubleHomework\obj\Debug\MethodDoubleHomework.exe
+C:\Users\msken\Documents\Visual Studio 2015\Projects\MethodDoubleHomeWork\MethodDoubleHomework\obj\Debug\MethodDoubleHomework.pdb
